@@ -1,0 +1,15 @@
+C:\Users\Maia\Desktop\2°año TDS\Programación\design patterns\design-patterns\behavioral-patterns\behavioral-patterns\bin\Debug\net8.0\behavioral-patterns.exe
+C:\Users\Maia\Desktop\2°año TDS\Programación\design patterns\design-patterns\behavioral-patterns\behavioral-patterns\bin\Debug\net8.0\behavioral-patterns.deps.json
+C:\Users\Maia\Desktop\2°año TDS\Programación\design patterns\design-patterns\behavioral-patterns\behavioral-patterns\bin\Debug\net8.0\behavioral-patterns.runtimeconfig.json
+C:\Users\Maia\Desktop\2°año TDS\Programación\design patterns\design-patterns\behavioral-patterns\behavioral-patterns\bin\Debug\net8.0\behavioral-patterns.dll
+C:\Users\Maia\Desktop\2°año TDS\Programación\design patterns\design-patterns\behavioral-patterns\behavioral-patterns\bin\Debug\net8.0\behavioral-patterns.pdb
+C:\Users\Maia\Desktop\2°año TDS\Programación\design patterns\design-patterns\behavioral-patterns\behavioral-patterns\obj\Debug\net8.0\behavioral-patterns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maia\Desktop\2°año TDS\Programación\design patterns\design-patterns\behavioral-patterns\behavioral-patterns\obj\Debug\net8.0\behavioral-patterns.AssemblyInfoInputs.cache
+C:\Users\Maia\Desktop\2°año TDS\Programación\design patterns\design-patterns\behavioral-patterns\behavioral-patterns\obj\Debug\net8.0\behavioral-patterns.AssemblyInfo.cs
+C:\Users\Maia\Desktop\2°año TDS\Programación\design patterns\design-patterns\behavioral-patterns\behavioral-patterns\obj\Debug\net8.0\behavioral-patterns.csproj.CoreCompileInputs.cache
+C:\Users\Maia\Desktop\2°año TDS\Programación\design patterns\design-patterns\behavioral-patterns\behavioral-patterns\obj\Debug\net8.0\behavioral-patterns.sourcelink.json
+C:\Users\Maia\Desktop\2°año TDS\Programación\design patterns\design-patterns\behavioral-patterns\behavioral-patterns\obj\Debug\net8.0\behavioral-patterns.dll
+C:\Users\Maia\Desktop\2°año TDS\Programación\design patterns\design-patterns\behavioral-patterns\behavioral-patterns\obj\Debug\net8.0\refint\behavioral-patterns.dll
+C:\Users\Maia\Desktop\2°año TDS\Programación\design patterns\design-patterns\behavioral-patterns\behavioral-patterns\obj\Debug\net8.0\behavioral-patterns.pdb
+C:\Users\Maia\Desktop\2°año TDS\Programación\design patterns\design-patterns\behavioral-patterns\behavioral-patterns\obj\Debug\net8.0\behavioral-patterns.genruntimeconfig.cache
+C:\Users\Maia\Desktop\2°año TDS\Programación\design patterns\design-patterns\behavioral-patterns\behavioral-patterns\obj\Debug\net8.0\ref\behavioral-patterns.dll

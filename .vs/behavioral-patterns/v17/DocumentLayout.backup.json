@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Maia\\Desktop\\2\u00B0a\u00F1o TDS\\Programaci\u00F3n\\design patterns\\design-patterns\\behavioral-patterns\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3E87D0CB-4545-4527-A764-B1C4E9160395}|behavioral-patterns\\behavioral-patterns.csproj|c:\\users\\maia\\desktop\\2\u00B0a\u00F1o tds\\programaci\u00F3n\\design patterns\\design-patterns\\behavioral-patterns\\behavioral-patterns\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E87D0CB-4545-4527-A764-B1C4E9160395}|behavioral-patterns\\behavioral-patterns.csproj|solutionrelative:behavioral-patterns\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E87D0CB-4545-4527-A764-B1C4E9160395}|behavioral-patterns\\behavioral-patterns.csproj|c:\\users\\maia\\desktop\\2\u00B0a\u00F1o tds\\programaci\u00F3n\\design patterns\\design-patterns\\behavioral-patterns\\behavioral-patterns\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E87D0CB-4545-4527-A764-B1C4E9160395}|behavioral-patterns\\behavioral-patterns.csproj|solutionrelative:behavioral-patterns\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E87D0CB-4545-4527-A764-B1C4E9160395}|behavioral-patterns\\behavioral-patterns.csproj|c:\\users\\maia\\desktop\\2\u00B0a\u00F1o tds\\programaci\u00F3n\\design patterns\\design-patterns\\behavioral-patterns\\behavioral-patterns\\bankcapdiscount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E87D0CB-4545-4527-A764-B1C4E9160395}|behavioral-patterns\\behavioral-patterns.csproj|solutionrelative:behavioral-patterns\\bankcapdiscount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E87D0CB-4545-4527-A764-B1C4E9160395}|behavioral-patterns\\behavioral-patterns.csproj|c:\\users\\maia\\desktop\\2\u00B0a\u00F1o tds\\programaci\u00F3n\\design patterns\\design-patterns\\behavioral-patterns\\behavioral-patterns\\idiscountstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E87D0CB-4545-4527-A764-B1C4E9160395}|behavioral-patterns\\behavioral-patterns.csproj|solutionrelative:behavioral-patterns\\idiscountstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E87D0CB-4545-4527-A764-B1C4E9160395}|behavioral-patterns\\behavioral-patterns.csproj|c:\\users\\maia\\desktop\\2\u00B0a\u00F1o tds\\programaci\u00F3n\\design patterns\\design-patterns\\behavioral-patterns\\behavioral-patterns\\nodiscount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E87D0CB-4545-4527-A764-B1C4E9160395}|behavioral-patterns\\behavioral-patterns.csproj|solutionrelative:behavioral-patterns\\nodiscount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E87D0CB-4545-4527-A764-B1C4E9160395}|behavioral-patterns\\behavioral-patterns.csproj|c:\\users\\maia\\desktop\\2\u00B0a\u00F1o tds\\programaci\u00F3n\\design patterns\\design-patterns\\behavioral-patterns\\behavioral-patterns\\percentage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E87D0CB-4545-4527-A764-B1C4E9160395}|behavioral-patterns\\behavioral-patterns.csproj|solutionrelative:behavioral-patterns\\percentage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "C:\\Users\\Maia\\Desktop\\2\u00B0a\u00F1o TDS\\Programaci\u00F3n\\design patterns\\design-patterns\\behavioral-patterns\\behavioral-patterns\\Cart.cs",
+              "RelativeDocumentMoniker": "behavioral-patterns\\Cart.cs",
+              "ToolTip": "C:\\Users\\Maia\\Desktop\\2\u00B0a\u00F1o TDS\\Programaci\u00F3n\\design patterns\\design-patterns\\behavioral-patterns\\behavioral-patterns\\Cart.cs",
+              "RelativeToolTip": "behavioral-patterns\\Cart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T22:47:42.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BankCapDiscount.cs",
+              "DocumentMoniker": "C:\\Users\\Maia\\Desktop\\2\u00B0a\u00F1o TDS\\Programaci\u00F3n\\design patterns\\design-patterns\\behavioral-patterns\\behavioral-patterns\\BankCapDiscount.cs",
+              "RelativeDocumentMoniker": "behavioral-patterns\\BankCapDiscount.cs",
+              "ToolTip": "C:\\Users\\Maia\\Desktop\\2\u00B0a\u00F1o TDS\\Programaci\u00F3n\\design patterns\\design-patterns\\behavioral-patterns\\behavioral-patterns\\BankCapDiscount.cs",
+              "RelativeToolTip": "behavioral-patterns\\BankCapDiscount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T22:43:32.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Percentage.cs",
+              "DocumentMoniker": "C:\\Users\\Maia\\Desktop\\2\u00B0a\u00F1o TDS\\Programaci\u00F3n\\design patterns\\design-patterns\\behavioral-patterns\\behavioral-patterns\\Percentage.cs",
+              "RelativeDocumentMoniker": "behavioral-patterns\\Percentage.cs",
+              "ToolTip": "C:\\Users\\Maia\\Desktop\\2\u00B0a\u00F1o TDS\\Programaci\u00F3n\\design patterns\\design-patterns\\behavioral-patterns\\behavioral-patterns\\Percentage.cs",
+              "RelativeToolTip": "behavioral-patterns\\Percentage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T22:28:33.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NoDiscount.cs",
+              "DocumentMoniker": "C:\\Users\\Maia\\Desktop\\2\u00B0a\u00F1o TDS\\Programaci\u00F3n\\design patterns\\design-patterns\\behavioral-patterns\\behavioral-patterns\\NoDiscount.cs",
+              "RelativeDocumentMoniker": "behavioral-patterns\\NoDiscount.cs",
+              "ToolTip": "C:\\Users\\Maia\\Desktop\\2\u00B0a\u00F1o TDS\\Programaci\u00F3n\\design patterns\\design-patterns\\behavioral-patterns\\behavioral-patterns\\NoDiscount.cs",
+              "RelativeToolTip": "behavioral-patterns\\NoDiscount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T22:24:28.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IDiscountStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\Maia\\Desktop\\2\u00B0a\u00F1o TDS\\Programaci\u00F3n\\design patterns\\design-patterns\\behavioral-patterns\\behavioral-patterns\\IDiscountStrategy.cs",
+              "RelativeDocumentMoniker": "behavioral-patterns\\IDiscountStrategy.cs",
+              "ToolTip": "C:\\Users\\Maia\\Desktop\\2\u00B0a\u00F1o TDS\\Programaci\u00F3n\\design patterns\\design-patterns\\behavioral-patterns\\behavioral-patterns\\IDiscountStrategy.cs",
+              "RelativeToolTip": "behavioral-patterns\\IDiscountStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T22:21:58.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Maia\\Desktop\\2\u00B0a\u00F1o TDS\\Programaci\u00F3n\\design patterns\\design-patterns\\behavioral-patterns\\behavioral-patterns\\Program.cs",
+              "RelativeDocumentMoniker": "behavioral-patterns\\Program.cs",
+              "ToolTip": "C:\\Users\\Maia\\Desktop\\2\u00B0a\u00F1o TDS\\Programaci\u00F3n\\design patterns\\design-patterns\\behavioral-patterns\\behavioral-patterns\\Program.cs",
+              "RelativeToolTip": "behavioral-patterns\\Program.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAAFIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T22:18:52.066Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
